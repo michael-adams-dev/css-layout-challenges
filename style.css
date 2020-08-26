@@ -1,0 +1,20 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: salmon;
+    color: white;
+    font-size: 30px;
+    border: 5px solid black;
+    margin: 5px;
+    padding: 20px;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+#box-2 {
+    position: relative;
+    right: 50px;
+    left: 50px;
+    top: 50px;
+    bottom: 50px;
+}

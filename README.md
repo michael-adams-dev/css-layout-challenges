@@ -1,0 +1,1 @@
+I created these files to practice controlling the layout of a web page with CSS.
